@@ -1,11 +1,11 @@
-About actinia-python-client
-===========================
+About actinia-python-client-feedstock
+=====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/actinia-python-client-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/actinia-org/actinia-python-client
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/actinia-python-client-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python Client Library for actinia
 
@@ -143,5 +143,7 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@anikaweinmann](https://github.com/anikaweinmann/)
 * [@giswqs](https://github.com/giswqs/)
+* [@neteler](https://github.com/neteler/)
 
