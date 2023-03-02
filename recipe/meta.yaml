@@ -1,5 +1,5 @@
 {% set name = "actinia-python-client" %}
-{% set version = "0.2.0" %}
+{% set version = "0.3.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/actinia-org/actinia-python-client/archive/{{ version }}.tar.gz
-  sha256: f9120fe8c09a9b09ed98087942a6ab25f40da122c094b3989f369b57a46abc0d
+  sha256: 2969f678e3257e9a773e4339d950accc290f3a64e0ac931d2368f054fdc7e0b8
 
 build:
   noarch: python
